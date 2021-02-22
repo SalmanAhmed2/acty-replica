@@ -1,0 +1,84 @@
+.footer-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-container p{
+ color: #01abe8;
+ font-weight: 700;
+}
+.footer{
+    padding: 10% 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.headings{font-size: 40px}
+.horse-logo{
+    width: 20%;
+}
+.horse-img{
+    height:200px
+}
+.links-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    color: #ff3c57;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    align-items: baseline;
+    justify-content:baseline;
+}
+.play-store{
+    position: relative;
+    top: 4px;
+}
+/* /////////.........1040px screen............/////////// */
+
+@media only screen and (max-width: 1040px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+    .horse-img{
+        height:150px
+    }
+    .headings{font-size: 35px!important;}
+}
+/* ////////////..........990px screen..............///////////// */
+@media only screen and (max-width: 990px){
+.headings{font-size: 30px!important;}
+}
+
+/* ////////////..........838px screen..............///////////// */
+@media only screen and (max-width: 838px){
+    .headings{font-size: 26px!important;}
+    }
+/* ////////////..........726px screen..............///////////// */
+@media only screen and (max-width: 726px){
+    .headings{font-size: 24px!important;}
+    }
+/* ////////////..........670px screen..............///////////// */
+@media only screen and (max-width: 670px){
+    .headings{font-size: 22px!important;}
+    }
+/* /////////.........629px screen............/////////// */
+@media only screen and (max-width: 629px){
+    .horse-logo {
+        width: 30%!important;
+    }
+}
+
+/* ////////////..........615 screen..............///////////// */
+@media only screen and (max-width: 615px){
+    .headings{font-size: 20px!important;}
+}
