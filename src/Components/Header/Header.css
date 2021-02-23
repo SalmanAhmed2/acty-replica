@@ -111,3 +111,16 @@ font-size: 40px;
     }
     .logo{margin: 0!important;}
 }
+/* /////////////.......425px screen........../////// */
+@media only screen and (max-width: 425px){
+    .header-container {
+        width: 100%!important;
+    }
+    .ads-container {
+        width: 100% !important;
+    }
+    .tasks-2 {
+        width: 100% !important;
+    }
+    .logo{height: 20px!important;}
+}

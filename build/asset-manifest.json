@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3adba158.chunk.css",
+    "main.js": "/static/js/main.44501fc2.chunk.js",
+    "main.js.map": "/static/js/main.44501fc2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8546df25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8546df25.js.map",
+    "static/js/2.77e6c8ae.chunk.js": "/static/js/2.77e6c8ae.chunk.js",
+    "static/js/2.77e6c8ae.chunk.js.map": "/static/js/2.77e6c8ae.chunk.js.map",
+    "static/js/3.d80b4e34.chunk.js": "/static/js/3.d80b4e34.chunk.js",
+    "static/js/3.d80b4e34.chunk.js.map": "/static/js/3.d80b4e34.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3adba158.chunk.css.map": "/static/css/main.3adba158.chunk.css.map",
+    "static/js/2.77e6c8ae.chunk.js.LICENSE.txt": "/static/js/2.77e6c8ae.chunk.js.LICENSE.txt",
+    "static/media/Acty-logo.d98cf273.jpg": "/static/media/Acty-logo.d98cf273.jpg",
+    "static/media/appStore.7d204f50.png": "/static/media/appStore.7d204f50.png",
+    "static/media/girlimage.c9f50b97.png": "/static/media/girlimage.c9f50b97.png",
+    "static/media/horse.4e358c1a.png": "/static/media/horse.4e358c1a.png",
+    "static/media/icon-1@3x.0c663a5f.ee55b8ff.jpg": "/static/media/icon-1@3x.0c663a5f.ee55b8ff.jpg",
+    "static/media/phone-image@3x.b858c974.23f74eae.jpg": "/static/media/phone-image@3x.b858c974.23f74eae.jpg",
+    "static/media/playStore.f902960a.png": "/static/media/playStore.f902960a.png",
+    "static/media/user-1@3x.b8f69914.3127e239.png": "/static/media/user-1@3x.b8f69914.3127e239.png",
+    "static/media/user-4@3x.2f01aae6.069f3cfc.png": "/static/media/user-4@3x.2f01aae6.069f3cfc.png",
+    "static/media/user-icon-3.948798be.png": "/static/media/user-icon-3.948798be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8546df25.js",
+    "static/js/2.77e6c8ae.chunk.js",
+    "static/css/main.3adba158.chunk.css",
+    "static/js/main.44501fc2.chunk.js"
+  ]
+}
