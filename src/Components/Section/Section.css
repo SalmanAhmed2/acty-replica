@@ -124,14 +124,21 @@
     .feed-head {
         width: 41%!important;
     }
-    feed-tasks {
-        width: 50%!important
+    .feed-tasks {
+        width: 60%!important
     }
 }
 
-/* ////////////..........615 screen..............///////////// */
-@media only screen and (max-width: 615px){
+/* ////////////..........536 screen..............///////////// */
+@media only screen and (max-width: 536px){
+    .feedback{
+        width: 100%!important;
+    }
+}
+
+/* ////////////..........468 screen..............///////////// */
+@media only screen and (max-width: 468px){
     .feed-tasks{
-        width: 55%!important;
+        width: 65%!important;
     }
 }

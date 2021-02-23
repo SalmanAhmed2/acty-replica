@@ -104,3 +104,10 @@ font-size: 40px;
         width: 80% !important;
     }
 }
+/* ///////......542px screen...........////////// */
+@media only screen and (max-width: 542px){
+    .header-content{
+        width: 100%!important;
+    }
+    .logo{margin: 0!important;}
+}
