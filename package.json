@@ -1,6 +1,7 @@
 {
   "name": "acty-replica",
   "version": "0.1.0",
+  "homepage": "https://salmanahmed2.github.io/acty-replica",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -14,7 +15,6 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "homepage": "http://SalmanAhmed2.github.io/acty-replica",
     "predeploy": "npm run build", 
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
