@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/acty-replica/static/css/main.87b832a7.chunk.css",
-    "main.js": "/acty-replica/static/js/main.53eda4fe.chunk.js",
-    "main.js.map": "/acty-replica/static/js/main.53eda4fe.chunk.js.map",
+    "main.js": "/acty-replica/static/js/main.44501fc2.chunk.js",
+    "main.js.map": "/acty-replica/static/js/main.44501fc2.chunk.js.map",
     "runtime-main.js": "/acty-replica/static/js/runtime-main.ee4d591e.js",
     "runtime-main.js.map": "/acty-replica/static/js/runtime-main.ee4d591e.js.map",
     "static/js/2.77e6c8ae.chunk.js": "/acty-replica/static/js/2.77e6c8ae.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.ee4d591e.js",
     "static/js/2.77e6c8ae.chunk.js",
     "static/css/main.87b832a7.chunk.css",
-    "static/js/main.53eda4fe.chunk.js"
+    "static/js/main.44501fc2.chunk.js"
   ]
 }
